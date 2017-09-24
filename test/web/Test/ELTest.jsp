@@ -21,7 +21,7 @@
 <pre><img src="/resources/Gate of steiner01.jpg"
           align ="left" width= "200 "height = "130"></pre>
 <p style = "text-align:left;color:darkturquoise;font-size:30px">
-    <%out.println("欢迎访问："+"Azure");%>
+    <%out.println("欢迎访问 ："+"Azure");%>
     <%--<%out.println("<br>user属性为："+request.getAttribute("user"));%>--%>
 </p>
 <p>
